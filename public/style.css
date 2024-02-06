@@ -60,9 +60,8 @@ button:hover {
   font-size: 30px;
   color: #e74c3c;
 }
-
 @media screen and (max-width: 768px) {
-  #board {
-    background-color: rebeccapurple;
+  .text {
+    width: 80%;
   }
 }
